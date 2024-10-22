@@ -7,4 +7,4 @@ I will deobfuscate `p.js`, `ips.js`, and the VM to retrieve the respective value
 
 If you're interested, please contact me.
 
-Discord | @
+Discord | solton_e
